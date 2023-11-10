@@ -263,7 +263,7 @@ nav {
 
 .additional-info {
   background-color: #fff;
-  padding-top: 40px;
+  padding: 40px 0px;
 }
 .additional-container {
   display: flex;
@@ -356,8 +356,8 @@ footer {
 .footer-tabs a {
   text-decoration: none;
   color: #fff;
-  display: block; /* Menjadikan tab sebagai blok agar berbaris */
-  margin: 5px 0; /* Jarak antar tab */
+  display: block; 
+  margin: 5px 0; 
 }
 
 .footer-address {
